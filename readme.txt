@@ -3,4 +3,4 @@ hello word
 
 Java
 c++
-python
+python --version
